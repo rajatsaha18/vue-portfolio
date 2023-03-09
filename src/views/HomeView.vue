@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="card card-body bg-info">
-                    <img src="{{ asset('/') }}image/img.jpg" alt="">
+                    <img src="/image/img.jpg" alt="">
                 </div>
             </div>
             <div class="col-md-6">
