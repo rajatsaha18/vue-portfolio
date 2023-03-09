@@ -1,7 +1,7 @@
 <template>
   <div class="about">
     <section class="py-5">
-        <div class="container">
+        <div class="container mt-5">
             <div class="row">
                 <div class="col-md-12">
                     <div class="card card-body bg-secondary">

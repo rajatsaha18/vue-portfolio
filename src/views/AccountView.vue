@@ -1,7 +1,7 @@
 <template>
     <div class="contact">
         <section class="py-5">
-            <div class="container">
+            <div class="container mt-5">
                 <div class="row">
                     <div class="col-md-6">
                         <div class="card text-white bg-danger">
